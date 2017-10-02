@@ -1,0 +1,25 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #2d3c49;
+}
+
+#logo {
+	width: 100px;
+	height: 100px;
+	padding-top: 10px;
+}
+
+hr {
+	height: 10px;
+	color: #7d97ad;
+}
+
+#mainPhoto {
+	height: 70%;
+}
+
+.text-faded {
+	color: #7d97ad;
+	opacity: .75;
+}
